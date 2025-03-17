@@ -1,0 +1,54 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+p,ul,h3{
+	padding-left: 20px;
+}
+p{
+	font-size: 56px;
+	font-weight: blod;
+	font-family: 微软雅黑;
+	padding-bottom: 5px;
+}
+h3{
+	font-size: 26px;
+}
+
+li{
+	width:500px;
+	font-size: 30px;
+	font-weight: bold;
+	/*圆角边框*/
+	border-radius: 55px;
+	border: 8px solid #003370;
+	background: #000099;
+	color: white;
+	padding: 4px 20px;
+	margin: 5px 0px;
+	margin-left:20px;
+}
+
+
+.color1{
+	color:#000050
+}
+.color2{
+	color:#7755DD
+}
+
+
+.cir1{
+	font-size: 15px;
+	font-weight: bolder;
+	padding: 3px;
+	border:5px dashed white;
+	border-radius:55px;
+}
+.page{
+	width: 754px;
+	margin: 15px auto;
+	border: 1px solid #667799;
+	box-shadow: 0 0 10px  #0022ff;
+	
+}
